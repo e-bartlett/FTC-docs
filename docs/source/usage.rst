@@ -35,5 +35,6 @@ For example:
 New Section
 -----------
 
-I just added this
+I just added this.
+
 
